@@ -12,3 +12,5 @@ const employees = [
 ];
 
 // Start coding here
+employees[1].hobbies.push="Watching Baskeball"
+console.log(employees[1].hobbies);
